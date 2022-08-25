@@ -1,0 +1,32 @@
+1.摄像头：
+	@camera_open	打开
+	@camera_snap	抓拍
+	@camera_echo	回显
+	@camera_play	播放
+	@camera_pause      暂停
+	@camera_exit	退出
+2.视频：
+	@video_open	打开
+	@video_on/off	暂停、继续
+	@video_forward      快进
+	@video_retreat        快退
+	@video_again          重播
+	@video_exit             退出
+3.游戏：
+	@game_start           开始游戏	
+
+4.音乐：
+	@music_open	打开
+	@music_on/off	暂停、继续
+	@music_up             上一首
+	@music_down        下一首
+	@music_upvolume	音量+
+	@music_downvolume 音量-
+	@music_again         重播
+	@music_exit            退出
+	
+5.相册：
+	@photo_open         打开
+	@photo_up            上一张
+	@photo_down       下一张
+	@photo_exit           退出

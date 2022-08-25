@@ -1,0 +1,22 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "headfile.h": "c",
+        "stdio.h": "c",
+        "system.h": "c",
+        "get_xy.h": "c",
+        "password.h": "c",
+        "stdlib.h": "c",
+        "process_init.h": "c",
+        "get_xy_hd.h": "c",
+        "get_real_time.h": "c",
+        "mplayer.h": "c",
+        "usart.h": "c",
+<<<<<<< HEAD
+        "photo.h": "c"
+=======
+        "game.h": "c"
+>>>>>>> cdca18da5cfc312c76857ff3ffe9a1b93c197f53
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
